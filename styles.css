@@ -61,9 +61,12 @@ body {
         flex-direction: column;
         height: 110vh;
     }
-    #box1, #box3 {
+    #box1 {
         width: 100%;
         height: auto;
     }
-
+    #box3 {
+        display: none;
+    }
 }
+
